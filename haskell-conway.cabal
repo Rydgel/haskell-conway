@@ -1,14 +1,14 @@
 name:                haskell-conway
 version:             0.1.0.0
-synopsis:            Initial project template from stack
+synopsis:            Conway's Game of Life in Haskell (SDL2)
 description:         Please see README.md
-homepage:            https://github.com/githubuser/haskell-conway#readme
+homepage:            https://github.com/Rydgel/haskell-conway#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
+author:              Jérôme Mahuet
+maintainer:          jerome.mahuet@gmail.com
 copyright:           2016 Jérôme Mahuet
-category:            Web
+category:            Game
 build-type:          Simple
 -- extra-source-files:
 cabal-version:       >=1.10
@@ -30,4 +30,4 @@ executable haskell-conway
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/haskell-conway
+  location: https://github.com/Rydgel/haskell-conway
